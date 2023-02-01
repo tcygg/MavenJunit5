@@ -12,6 +12,7 @@ public class ceshi1 {
         System.out.println(xusong.toString());
         int shuzi=xusong.add(13,44);
         System.out.println(shuzi);
+        System.out.println(111);
 
 
 
