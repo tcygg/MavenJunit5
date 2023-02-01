@@ -1,0 +1,183 @@
+# Created at 2022-11-20T15:29:42.036
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.036
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,602 |-INFO in ch.qos.logback.classic.LoggerContext[default] - This is logback-classic version 1.4.3'.
+
+# Created at 2022-11-20T15:29:42.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,635 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]'.
+
+# Created at 2022-11-20T15:29:42.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.037
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,642 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/classes/logback.xml]'.
+
+# Created at 2022-11-20T15:29:42.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,837 |-WARN in ch.qos.logback.core.model.processor.ImplicitModelHandler - Ignoring unknown property [encoder] in [ch.qos.logback.classic.LoggerContext]'.
+
+# Created at 2022-11-20T15:29:42.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.038
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,837 |-INFO in ch.qos.logback.core.model.processor.TimestampModelHandler - Using current interpretation time, i.e. now, as time reference.'.
+
+# Created at 2022-11-20T15:29:42.039
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.039
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,866 |-INFO in ch.qos.logback.core.model.processor.TimestampModelHandler - Adding property to the context with key="byModel" and value="20221120" to the LOCAL scope'.
+
+# Created at 2022-11-20T15:29:42.039
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.039
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,875 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [STDOUT]'.
+
+# Created at 2022-11-20T15:29:42.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,875 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]'.
+
+# Created at 2022-11-20T15:29:42.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.040
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,882 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property'.
+
+# Created at 2022-11-20T15:29:42.041
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.041
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,933 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - Processing appender named [FILE]'.
+
+# Created at 2022-11-20T15:29:42.041
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.041
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,933 |-INFO in ch.qos.logback.core.model.processor.AppenderModelHandler - About to instantiate appender of type [ch.qos.logback.core.rolling.RollingFileAppender]'.
+
+# Created at 2022-11-20T15:29:42.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,951 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@758465579 - setting totalSizeCap to 1 GB'.
+
+# Created at 2022-11-20T15:29:42.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.042
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,964 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@758465579 - Will use zip compression'.
+
+# Created at 2022-11-20T15:29:42.043
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.043
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,966 |-INFO in c.q.l.core.rolling.TimeBasedRollingPolicy@758465579 - Will use the pattern log.zip.path_IS_UNDEFINED/%d{yyyy-MM-dd}.%i.log for the active file'.
+
+# Created at 2022-11-20T15:29:42.043
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.043
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,997 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2b46a8c1 - The date pattern is 'yyyy-MM-dd' from file name pattern 'log.zip.path_IS_UNDEFINED/%d{yyyy-MM-dd}.%i.log.zip'.'.
+
+# Created at 2022-11-20T15:29:42.043
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.044
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '41,997 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2b46a8c1 - Roll-over at midnight.'.
+
+# Created at 2022-11-20T15:29:42.044
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.044
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,002 |-INFO in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2b46a8c1 - Setting initial period to Sun Nov 20 11:43:'.
+
+# Created at 2022-11-20T15:29:42.044
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '24 CST 2022'.
+
+# Created at 2022-11-20T15:29:42.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,002 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2b46a8c1 - SizeAndTimeBasedFNATP is deprecated. Use SizeAndTimeBasedRollingPolicy instead'.
+
+# Created at 2022-11-20T15:29:42.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,002 |-WARN in ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP@2b46a8c1 - For more information see http://logback.qos.ch/manual/appenders.html#SizeAndTimeBasedRollingPolicy'.
+
+# Created at 2022-11-20T15:29:42.045
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.046
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,006 |-INFO in ch.qos.logback.core.model.processor.ImplicitModelHandler - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property'.
+
+# Created at 2022-11-20T15:29:42.046
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.046
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,015 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[FILE] - Active log file name: 20221120.log'.
+
+# Created at 2022-11-20T15:29:42.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,015 |-INFO in ch.qos.logback.core.rolling.RollingFileAppender[FILE] - File property is set to [20221120.log]'.
+
+# Created at 2022-11-20T15:29:42.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.047
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,021 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [com.ceshiren] to DEBUG'.
+
+# Created at 2022-11-20T15:29:42.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,021 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [ch.qos.logback] to INFO'.
+
+# Created at 2022-11-20T15:29:42.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,021 |-INFO in ch.qos.logback.classic.model.processor.LoggerModelHandler - Setting level of logger [org] to WARN'.
+
+# Created at 2022-11-20T15:29:42.048
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,022 |-INFO in ch.qos.logback.classic.model.processor.RootLoggerModelHandler - Setting level of ROOT logger to INFO'.
+
+# Created at 2022-11-20T15:29:42.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,022 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [STDOUT] to Logger[ROOT]'.
+
+# Created at 2022-11-20T15:29:42.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.049
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,023 |-INFO in ch.qos.logback.core.model.processor.AppenderRefModelHandler - Attaching appender named [FILE] to Logger[ROOT]'.
+
+# Created at 2022-11-20T15:29:42.050
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.050
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,023 |-INFO in ch.qos.logback.core.model.processor.DefaultProcessor@1d572e62 - End of configuration.'.
+
+# Created at 2022-11-20T15:29:42.050
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '15:29:'.
+
+# Created at 2022-11-20T15:29:42.050
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '42,025 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@29caf222 - Registering current configuration as safe fallback point'.
+

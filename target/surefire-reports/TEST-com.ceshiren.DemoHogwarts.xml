@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.ceshiren.DemoHogwarts" time="0.246" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/test-classes:/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/classes:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter/5.9.1/junit-jupiter-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/vintage/junit-vintage-engine/5.9.1/junit-vintage-engine-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/junit/junit/4.13.2/junit-4.13.2.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite/1.9.1/junit-platform-suite-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite-api/1.9.1/junit-platform-suite-api-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite-engine/1.9.1/junit-platform-suite-engine-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite-commons/1.9.1/junit-platform-suite-commons-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/slf4j/slf4j-api/2.0.3/slf4j-api-2.0.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/ch/qos/logback/logback-classic/1.4.3/logback-classic-1.4.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/ch/qos/logback/logback-core/1.4.3/logback-core-1.4.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-junit5/2.19.0/allure-junit5-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-junit-platform/2.19.0/allure-junit-platform-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-java-commons/2.19.0/allure-java-commons-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-model/2.19.0/allure-model-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-test-filter/2.19.0/allure-test-filter-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-launcher/1.9.1/junit-platform-launcher-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/aspectj/aspectjweaver/1.9.9.1/aspectjweaver-1.9.9.1.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/surefire/surefirebooter2332087577492668682.jar /Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/surefire 2022-11-20T15-29-36_914-jvmRun1 surefire5131403151006759564tmp surefire_014699231905710489293tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/test-classes:/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/classes:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter/5.9.1/junit-jupiter-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter-params/5.9.1/junit-jupiter-params-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/jupiter/junit-jupiter-engine/5.9.1/junit-jupiter-engine-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/vintage/junit-vintage-engine/5.9.1/junit-vintage-engine-5.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-engine/1.9.1/junit-platform-engine-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/junit/junit/4.13.2/junit-4.13.2.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite/1.9.1/junit-platform-suite-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite-api/1.9.1/junit-platform-suite-api-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite-engine/1.9.1/junit-platform-suite-engine-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-suite-commons/1.9.1/junit-platform-suite-commons-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/slf4j/slf4j-api/2.0.3/slf4j-api-2.0.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/ch/qos/logback/logback-classic/1.4.3/logback-classic-1.4.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/ch/qos/logback/logback-core/1.4.3/logback-core-1.4.3.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-junit5/2.19.0/allure-junit5-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-junit-platform/2.19.0/allure-junit-platform-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-java-commons/2.19.0/allure-java-commons-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-model/2.19.0/allure-model-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/io/qameta/allure/allure-test-filter/2.19.0/allure-test-filter-2.19.0.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/junit/platform/junit-platform-launcher/1.9.1/junit-platform-launcher-1.9.1.jar:/Users/yanggao/AppData/apache-maven-3.8.3/repo/org/aspectj/aspectjweaver/1.9.9.1/aspectjweaver-1.9.9.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/yanggao"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.0.17.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5/target/surefire/surefirebooter2332087577492668682.jar"/>
+    <property name="user.script" value="Hans"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.17+10-LTS-269"/>
+    <property name="user.name" value="yanggao"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="13.0.1"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="/Users/yanggao/AppData/apache-maven-3.8.3/repo"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/sf/k8f6051124n3s8rp2b3lh7ww0000gn/T/"/>
+    <property name="java.version" value="11.0.17"/>
+    <property name="user.dir" value="/Users/yanggao/IT/IDEA/hogwarts_code/MavenJunit5"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/yanggao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.17+10-LTS-269"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="demo" classname="com.ceshiren.DemoHogwarts" time="0.101">
+    <system-out><![CDATA[fjksdgfjsg
+]]></system-out>
+  </testcase>
+</testsuite>
