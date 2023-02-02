@@ -1,4 +1,4 @@
-package com.msb;
+package com.msb.oop.test1.xx1;
 
 /**
  * @Auther: ygg

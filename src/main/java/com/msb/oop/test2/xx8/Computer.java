@@ -1,6 +1,4 @@
-package com.msb.test10;
-
-import com.msb.test9.Phone;
+package com.msb.oop.test2.xx8;
 
 /**
  * @Auther: ygg

@@ -1,3 +1,5 @@
+package com.msb.lianxi.xx1;
+
 import java.util.Arrays;
 
 /**

@@ -1,4 +1,4 @@
-package com.msb.test1;
+package com.msb.commonclass.xx1;
 
 import java.util.Scanner;
 

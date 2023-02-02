@@ -1,6 +1,4 @@
-package com.msb4;
-
-import java.util.Random;
+package com.msb.oop.test1.xx5;
 
 /**
  * @Auther: ygg

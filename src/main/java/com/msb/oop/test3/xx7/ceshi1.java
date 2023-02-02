@@ -1,4 +1,4 @@
-package com.msb.shiyishi1;
+package com.msb.oop.test3.xx7;
 
 /**
  * @Auther: zhaoss

@@ -1,4 +1,4 @@
-package com.msb.test2;
+package com.msb.oop.test3.xx2;
 
 public abstract class Person {
     //1.在一个类中，会有一类方法，子类对这个方法非常满意，无需重写，直接使用

@@ -1,4 +1,4 @@
-package com.msb.test1;
+package com.msb.exception;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

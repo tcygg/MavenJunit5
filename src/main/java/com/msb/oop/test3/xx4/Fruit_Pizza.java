@@ -1,4 +1,4 @@
-package com.msb.Test4;
+package com.msb.oop.test3.xx4;
 
 /**
  * @Auther: zhaoss

@@ -1,6 +1,6 @@
-package com.msb3;
+package com.msb.oop.test1.xx4;
 
-import com.msb1.Person;
+import com.msb.oop.test1.xx2.Person;
 
 import java.util.Arrays;
 import java.util.Date;
@@ -42,6 +42,7 @@ public class Test {
 
     public static void main(String[] args) {
         new Person();
+
         new Date();
         new java.sql.Date(1000L);
         new java.sql.Date(1000,3,2);

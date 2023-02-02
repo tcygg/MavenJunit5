@@ -1,8 +1,4 @@
-package com.msb.test1;
-
-import com.sun.xml.internal.ws.api.message.ExceptionHasMessage;
-
-import java.util.Objects;
+package com.msb.exception;
 
 /**
  * @Auther: zhaoss

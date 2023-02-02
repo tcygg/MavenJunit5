@@ -1,4 +1,4 @@
-package com.msb.test4;
+package com.msb.oop.test2.xx4;
 
 
 /**
