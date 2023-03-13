@@ -21,6 +21,8 @@ public class TestRestAssuredGet01 {
                 .then()
                 // 解析结果
                 .log().all()  // 打印完整响应信息
-                .statusCode(200);  // 响应断言
+                .statusCode(200)
+                .extract()
+                .response();  // 响应断言
     }
 }

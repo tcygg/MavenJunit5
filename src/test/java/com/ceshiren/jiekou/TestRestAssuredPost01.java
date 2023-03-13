@@ -6,21 +6,40 @@ package com.ceshiren.jiekou;
  * @Description: com.ceshiren.jiekou
  * @version: 1.0
  */
+import jdk.jfr.ContentType;
 import org.junit.jupiter.api.Test;
+import org.openqa.selenium.devtools.v94.network.model.AuthChallengeResponse;
+
+import java.util.HashMap;
+
 import static io.restassured.RestAssured.given;
+import static org.hamcrest.core.IsEqual.equalTo;
 
 public class TestRestAssuredPost01 {
     @Test
     void testPost(){
+
+        HashMap<String,String> jsonobj=new HashMap<String, String>();
+        jsonobj.put("username","Hogwarts");
+        jsonobj.put("username1","Hogwarts1");
         given()
                 // 可以设置测试预设
-                .param("username", "Hogwarts")  // 设置查询参数
+                .contentType("application/json")
+                .body(jsonobj)
+                .log().body()
+                .log().headers()
                 .when()
                 // 发起 POST 请求
                 .post("https://httpbin.ceshiren.com/post")
                 .then()
                 // 解析结果
-                .log().all()  // 打印完整响应信息
-                .statusCode(200);  // 响应断言
+                .log().body()  // 打印完整响应信息
+                .statusCode(200)
+                .body("origin", equalTo("123.119.73.110"))
+                .body("json.username", equalTo("Hogwarts"))
+
+        ;
+        System.out.println(jsonobj.toString());
+
     }
 }
