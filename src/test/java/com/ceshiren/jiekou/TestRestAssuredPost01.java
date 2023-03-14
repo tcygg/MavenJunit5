@@ -6,9 +6,8 @@ package com.ceshiren.jiekou;
  * @Description: com.ceshiren.jiekou
  * @version: 1.0
  */
-import jdk.jfr.ContentType;
+
 import org.junit.jupiter.api.Test;
-import org.openqa.selenium.devtools.v94.network.model.AuthChallengeResponse;
 
 import java.util.HashMap;
 
@@ -35,7 +34,7 @@ public class TestRestAssuredPost01 {
                 // 解析结果
                 .log().body()  // 打印完整响应信息
                 .statusCode(200)
-                .body("origin", equalTo("123.119.73.110"))
+                .body("origin", equalTo("36.112.24.20"))
                 .body("json.username", equalTo("Hogwarts"))
 
         ;

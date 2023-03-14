@@ -19,7 +19,7 @@ public class Person {
         Name = name;
     }
 
-    public int getAge() {
+    public String getAge() {
         return Age;
     }
 
