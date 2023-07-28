@@ -50,7 +50,7 @@ public class ContainerPostJson01 {
         System.out.println(response);
         Object data = JSONUtil.parse(response).getByPath("data");
         Object list = JSONUtil.parse(data).getByPath("list");
-        JSONUtil.parse()
+        JSONUtil.parse(jsonstr);
 
 
         // .body("origin", equalTo("36.112.24.20"))
