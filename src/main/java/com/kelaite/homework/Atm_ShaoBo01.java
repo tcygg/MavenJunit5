@@ -19,7 +19,7 @@ import java.util.Scanner;
  * 可以查询剩余金额
  * 可以注册用户(
  */
-public class Atm_lianxi1 {
+public class Atm_ShaoBo01 {
     public static Scanner sc = new Scanner(System.in);
 //    public String[] cardNos = {"123", "456", "111"};
 //    public String[] passwords = {"1234", "223", "121"};
@@ -38,18 +38,18 @@ public class Atm_lianxi1 {
 
 
     public static void main(String[] args) {
-        Atm_lianxi1 Atm_lianxi1 = new Atm_lianxi1();
+        Atm_ShaoBo01 Atm_ShaoBo01 = new Atm_ShaoBo01();
         while (out1 == 10) {
             System.out.println("1.登录账户 2.注册用户 3.退出 4.展示已注册账号密码");
             int getNum1 = sc.nextInt();
             switch (getNum1) {
                 case 1:
-                    Atm_lianxi1.Atm_lianxi1Run();
+                    Atm_ShaoBo01.Atm_lianxi1Run();
                     break;
                 case 2:
-                    Atm_lianxi1.insertCardNos();
+                    Atm_ShaoBo01.insertCardNos();
 
-                    Atm_lianxi1.Atm_lianxi1Run();
+                    Atm_ShaoBo01.Atm_lianxi1Run();
                     break;
                 case 3:
                     System.out.println("再见!");
