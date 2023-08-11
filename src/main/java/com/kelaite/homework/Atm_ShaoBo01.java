@@ -126,6 +126,7 @@ public class Atm_ShaoBo01 {
                 userIndex = i;
                 break;
             }
+
         }
         if (userIndex != 10000) {
             if (pwd.equals(passwords[userIndex])) {
