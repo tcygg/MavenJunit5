@@ -7,6 +7,9 @@ package com.kelaite.homework;
  * @version: 1.0
  */
 public class Person2 {
+    public double height1;
+    public double height2;
+
     String cardId;
     String pwd;
     int age ;//年龄
@@ -29,6 +32,12 @@ public class Person2 {
     }
 
     public Person2() {
+
+    };
+
+    public Person2(double height1, double height2, String cardId) {
+        this(height1,height2);
+        this.cardId = cardId;
     }
 
     public Person2(String cardId, String pwd, int age, String name, double height, double weight) {
@@ -50,12 +59,17 @@ public class Person2 {
     @Override
     public String toString() {
         return "Person2{" +
-                "cardId='" + cardId + '\'' +
+                "cardId='" + this.cardId + '\'' +
                 ", pwd='" + pwd + '\'' +
                 ", age=" + age +
                 ", name='" + name + '\'' +
                 ", height=" + height +
                 ", weight=" + weight +
                 '}';
+    }
+
+    public Person2(double height3, double height4) {
+        height1 = height3;
+        height2 = height4;
     }
 }

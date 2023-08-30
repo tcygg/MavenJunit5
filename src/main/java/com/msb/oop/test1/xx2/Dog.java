@@ -8,7 +8,7 @@ package com.msb.oop.test1.xx2;
  */
 public class Dog {
     String name;
-    int age;
+    int age =3;
     String color;
     String type;
     String leading;

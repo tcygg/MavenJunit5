@@ -9,16 +9,16 @@ package com.msb.oop.test3.xx1;
 public class Girls {
 //    int age;
 //    String name;
-/*    public void play(Cat cat){
+    public void play(Cat cat){
         cat.beat();
-        cat.shut();
+        cat.shout();
 
     }
     public void play(Dog cat){
         cat.beat();
-        cat.shut();
+        cat.shout();
 
-    }*/
+    }
 public void play(Animals an){
 
     an.shout();

@@ -7,6 +7,8 @@ package com.msb.oop.test3.xx1;
  * @version: 1.0
  */
 public class Dog extends Animals{
+    public int age =3;
+
     public void shout(){
         System.out.println("我是小狗,我可以汪汪叫");
 

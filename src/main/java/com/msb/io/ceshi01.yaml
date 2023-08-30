@@ -1,0 +1,29 @@
+user:
+  jay:
+    username: gaozehui
+    password: herry1001$
+  device:
+    deviceName: 164bfd30  # 测试设备名称
+    platformName: Android  # 测试系统
+    plaformVersion: 14  # 版本号
+    appPackage: com.xiaomi.im.tpm  # app 包名
+    appActivity: com.xiaomi.im.tpm.MainActivity  # App最先启动的Activity
+    noReset: True
+    autoGrantPermissions: true
+    automationName: UiAutomator2
+  device2:
+    deviceName: 164bfd30  # 测试设备名称
+    platformName: Android  # 测试系统
+    plaformVersion: 13  # 版本号
+    appPackage: com.xiaomi.im.wms  # app 包名
+    appActivity: com.xiaomi.im.wms.MainActivity  # App最先启动的Activity
+    noReset: True
+    autoGrantPermissions: true
+    automationName: UiAutomator2
+
+
+url: http://www.tcpjwtester.top
+
+num: extensions
+printClsName: extensions2
+nineClsName: extensions1

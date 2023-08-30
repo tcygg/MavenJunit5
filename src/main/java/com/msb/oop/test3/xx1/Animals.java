@@ -7,7 +7,8 @@ package com.msb.oop.test3.xx1;
  * @version: 1.0
  */
 public class Animals {
-    String name="小动物";
+//    String name="小动物";
+    String name;
 
     public Animals() {
     }
