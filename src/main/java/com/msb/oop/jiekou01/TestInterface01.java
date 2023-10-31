@@ -13,6 +13,9 @@ public interface TestInterface01 {
     /*public abstract */ void a();
     /*public abstract*/ void b(int num);
     /*public abstract*/ int c(String name);
+    public default void zx(int num1){
+        System.out.println("测试默认方法打");
+    }
 }
 
 class student implements TestInterface01{
